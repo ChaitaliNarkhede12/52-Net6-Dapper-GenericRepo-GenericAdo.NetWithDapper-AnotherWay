@@ -1,0 +1,15 @@
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.csproj.AssemblyReference.cache
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.AssemblyInfoInputs.cache
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.AssemblyInfo.cs
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.deps.json
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.dll
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.pdb
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\bin\Debug\net6.0\TCCS.Domain.dll
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\bin\Debug\net6.0\TCCS.Domain.pdb
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.csproj.CopyComplete
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.dll
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\refint\TCCS.DataAccess.dll
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.pdb
+F:\Projects\.NET Core\Net6DapperGenericRepoGenericAdoNet\TCCS.DataAccess\obj\Debug\net6.0\ref\TCCS.DataAccess.dll
